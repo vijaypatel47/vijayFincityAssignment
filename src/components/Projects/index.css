@@ -1,0 +1,56 @@
+.projects {
+  text-align: center;
+  font-size: 40px;
+}
+.name-in-view {
+  font-size: 20px;
+  font-weight: 500;
+  color: black;
+}
+.project-view-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  margin: 10px;
+}
+.eachProjectContainer {
+  border-radius: 10px;
+  display: flex;
+  height: 20vh;
+  width: 80vh;
+  background-color: white;
+  background-size: cover;
+  height: 25vh;
+  margin-bottom: 20px;
+}
+.details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  height: auto;
+  width: 50%;
+  padding: 20px;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+.img-container {
+  width: 50%;
+  height: auto;
+  padding: 20px;
+  margin-right: 10px;
+}
+.img {
+  height: 100%;
+  width: 100%;
+}
+.view-project-button {
+  background-color: transparent;
+  border-width: 1px black;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 12px;
+  width: 80px;
+}

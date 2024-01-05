@@ -1,0 +1,78 @@
+.home-container {
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.left-container {
+  width: 40%;
+  margin-right: 30px;
+}
+.nav_header {
+  background-image: url('https://i.im.ge/2024/01/05/32Vx26.image.png');
+  background-repeat: no-repeat;
+  width: 820px;
+  height: 629px;
+  left: 720px;
+  width: 55%;
+  margin-left: 50px;
+}
+.troff-name {
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.item-of-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 10px;
+}
+.ui-ux-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 101px;
+  width: Fixed (486px);
+  height: (408px);
+  margin: 12px;
+}
+.button-container {
+  display: flex;
+}
+.projectBtn {
+  color: black;
+  border: none;
+  background-color: yellow;
+  border-radius: 5px;
+  margin-right: 20px;
+  cursor: pointer;
+  height: 27px;
+  width: 70px;
+}
+.linkedBtn {
+  border-width: 1px black;
+  background-color: transparent;
+  cursor: pointer;
+  height: 27px;
+  width: 70px;
+}
+.link {
+  list-style: none;
+}
+.designer-heading {
+  color: orange;
+  font-weight: 700;
+  font-size: 20px;
+}
+.name {
+  font-size: 70px;
+}
+.header-button {
+  background-color: transparent;
+  font-size: 20px;
+  color: black;
+  font-size: 13px;
+  font-weight: 400;
+  cursor: pointer;
+  border: none;
+}

@@ -1,0 +1,29 @@
+.contacts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+}
+
+.icons-cont {
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+  width: Hug (192px);
+  height: Hug (48px);
+  gap: 24px;
+}
+.icons {
+  height: 50px;
+  width: 50px;
+}
+
+.copy-right {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+}
